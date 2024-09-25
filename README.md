@@ -1,8 +1,10 @@
 # Hackintosh EFI's
-Hackintosh OpenCore EFI's for some laptops and PC's.
+Hackintosh EFI's for some laptops and PC's.
 
 ## Acer Aspire A315-41
 OpenCore EFI for Acer Aspire A315-41 with AMD Ryzen 3 2200U and AMD Radeon Vega 3.  
+
+macOS Version: Monterey  
 
 AMD Radeon Vega 3 - Works (NootedRed kext)  
 AMD AHCI Controller - Works  
@@ -20,3 +22,5 @@ To get the touchpad and keyboard work:
 3. Save and exit.  
 
 Also I recommend using layout id 80 instead of 15 for Apple ALC to make the speakers work and fix the headphones issue.  
+
+## ASUS K52JT
